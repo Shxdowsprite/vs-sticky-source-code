@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "This is so easy bars bro omg dude",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "I think he is getting angry.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's it, you have pushed my limit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickypyscho"
+		},
+		{
+			"expression": "shocked",
+			"text": "I figured you were just a little cunt, so I went easy on you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickypyscho"
+		},
+		{
+			"expression": "talk",
+			"text": "But now, you showed me that you are more capable.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickypyscho"
+		},
+		{
+			"expression": "talk",
+			"text": "OF MAKING ME ANGRY!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickymad"
+		},
+		{
+			"expression": "normal",
+			"text": "huh. Let's do one more song. If I win, then you get the fuck outta my house. But if you win, I may consider giving you a slice of my pizza.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickypyscho"
+		},
+		{
+			"expression": "talk",
+			"text": "really? Man, do I love pizza!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "dream on. You'll never beat me this time.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stickypyscho"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, let's see then.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The pizza got moldy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and i spilled it all over the arrow spaces"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stickypyscho",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FOR GOODNESS SAKE"
+		}
+	]
+}
