@@ -43,9 +43,6 @@ class CreditsState extends MusicBeatState
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		add(bg);
 
-		bg.scale.x = bg.scale.y = scaleRatio;
-		bg.screenCenter();
-		
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
 
@@ -93,14 +90,23 @@ class CreditsState extends MusicBeatState
 			['iFlicky',				'iflicky',			'Delay/Combo Menu Song Composer\nand Dialogue Sounds',	'https://twitter.com/flicky_i',			'C549DB'],
 			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',							'https://twitter.com/polybiusproxy',	'FFEAA6'],
 			['Keoiki',				'keoiki',			'Note Splash Animations',								'https://twitter.com/Keoiki_',			'FFFFFF'],
-			['Smokey',				'smokey',			'Spritemap Texture Support',							'https://twitter.com/Smokey_5_',		'0033CC'],
-			[''],
 			[''],
 			["Funkin' Crew"],
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3'],
+			[''],
+			["The Vs Sticky Team"],
+			['Shxdowsk8r',		'Shxdowsk8r',	"Creator, director and main artist of Vs Sticky 1.0 and 2.0",					'https://www.youtube.com/channel/UC5qmtF6AN7A7HOtol5glaGw',	'F73838'],
+			['OnourBookshelf',		'Kalen',	"Friend irl, recharter of Mellow",						'https://www.youtube.com/channel/UCyJC2vo2LHfFivpNZGs-BMQ',	'FFBB1B'],
+			['Jammy',			'Jammy',			"Programmer of Vs Sticky",						'https://www.youtube.com/channel/UCdGTdqOVO1kEr3_1g9C1KDw',			'53E52C'],
+			['When',			'When',			"Recharter of Speed and Ultimate Showdown",						'https://www.youtube.com/channel/UCN9wBV82osf-aiLEDTO-QoA',			'53E52C'],
+			['BryceIsBryce',			'Bryce',			"Week Animator of Vs Sticky 1.0",						'https://www.youtube.com/channel/UCe7qabmDa43xFhjk8oRDtkQ',	        '53E52C'],
+			['Sturoll',			'Robloxkid',			"Voice Actor of Sticky",						'https://youtube.com/channel/UCYFsa0Jqvv0s1Bmna5kgurg',	        '53E52C']
+			
+			
+			
 		];
 		
 		for(i in pisspoop){
