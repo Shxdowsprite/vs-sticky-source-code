@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"mellow",
+			"sticky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"speed",
+			"sticky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ultimate showdown",
+			"sticky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Stickyroomshit",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"sticky",
+		""
+	],
+	"storyName": "sticky wants his pizza stat",
+	"weekName": "Week Stick",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
