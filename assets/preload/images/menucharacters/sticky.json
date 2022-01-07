@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_Sticky idle",
+	"image": "Menu_Sticky",
+	"position": [
+		0,
+		0
+	],
+	"scale": 0.8,
+	"confirm_anim": "Menu_Sticky idle"
+}
